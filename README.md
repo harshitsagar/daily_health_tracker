@@ -38,12 +38,12 @@ A Flutter health tracking app with Google Sign-In, activity logs, graphs, and sm
     flutter run
 
 📁 Structure:
-lib/
-├── controllers/   # GetX controllers
-├── views/        # UI screens
-├── models/       # Data models
-├── services/     # API & Firebase
-└── main.dart
+   lib/
+   ├── controllers/   # GetX controllers
+   ├── views/        # UI screens
+   ├── models/       # Data models
+   ├── services/     # API & Firebase
+   └── main.dart
 
 ## 📱 App Screenshots
 
