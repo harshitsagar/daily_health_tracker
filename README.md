@@ -21,7 +21,7 @@ A Flutter health tracking app with Google Sign-In, activity logs, graphs, and sm
 
 1. **Clone repository**
    ```bash
-   git clone https://github.com/harshitsagar/yoga-home-assignment.git
+   git clone https://github.com/harshitsagar/daily_health_tracker.git
 
 2. **Install dependencies**
    ```bash
