@@ -48,19 +48,19 @@ lib/
 ## 📱 App Screenshots
 
 ### Login Screen
-| Light Mode | Dark Mode |
-|------------|-----------|
-| <img src="screenshots/login_light.png" width="200"> | <img src="screenshots/login_dark.png" width="200"> |
+| Light Mode                                           | Dark Mode                                           |
+|------------------------------------------------------|-----------------------------------------------------|
+| <img src="screenshots/login_light.jpeg" width="200"> | <img src="screenshots/login_dark.jpeg" width="200"> |
 
 ### Dashboard
 | Light Mode | Dark Mode |
 |------------|-----------|
-| <img src="screenshots/dashboard_light.png" width="200"> | <img src="screenshots/dashboard_dark.png" width="200"> |
+| <img src="screenshots/dashboard_light.jpeg" width="200"> | <img src="screenshots/dashboard_dark.jpeg" width="200"> |
 
 ### Graph Page
 | Light Mode | Dark Mode |
 |------------|-----------|
-| <img src="screenshots/graph_light.png" width="200"> | <img src="screenshots/graph_dark.png" width="200"> |
+| <img src="screenshots/graph_light.jpeg" width="200"> | <img src="screenshots/graph_dark.jpeg" width="200"> |
 
 🔧 Tech Stack:
 - Flutter + GetX
